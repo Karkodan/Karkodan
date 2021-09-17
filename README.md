@@ -1,0 +1,13 @@
+### Hi there 👋
+
+<👋 Hi, I’m @Karkodan
+- 👀 I’m interested in developing app for offering agricultural spray solutions using drones
+- 🌱 I’m currently learning Linux, developer essentials
+- 💞️ I’m looking to collaborate on any project in agricultural spray solutions using drones
+- 📫 How to reach me by email dronedelsys@gmail.com
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+-
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
